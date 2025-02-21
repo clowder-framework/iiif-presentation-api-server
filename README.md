@@ -1,4 +1,8 @@
-# IIIF Format Presentation API Server
+# International Image Interoperability Framework (IIIF) Presentation API V3 Server
+
+This is a simple server that generates IIIF Presentation API V3 manifests for images hosted on an IIIF Image API V3
+server. For more details on the IIIF Presentation API V3, please refer to
+the [official documentation](https://iiif.io/api/presentation/3.0/).
 
 ## Pre-requisites
 
