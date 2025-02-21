@@ -8,7 +8,8 @@ the [official documentation](https://iiif.io/api/presentation/3.0/).
 
 1. Docker is installed
 2. Optionally, Python 3.9 or higher is installed
-3. An IIIF Image API V3 server is running
+3. An IIIF Image API V3 server is running. The current implementation has been tested
+   with [Cantaloupe](https://cantaloupe-project.github.io/).
 
 ## Docker-based Instructions (Recommended)
 
